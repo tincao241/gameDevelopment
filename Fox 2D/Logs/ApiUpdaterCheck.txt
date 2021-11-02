@@ -1,0 +1,10 @@
+[api-updater (non-obsolete-error-filter)] 11/1/2021 6:46:32 PM : Starting E:/HỌC TẬP/ĐẠI HỌC/HK1 2021-2022/Phát triển trò chơi/2020.3.19f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 959.2135ms
+moved types parse time: 85ms
+candidates parse time : 1ms
+C# parse time         : 719ms
+candidates check time : 28ms
+console write time    : 1ms
+
