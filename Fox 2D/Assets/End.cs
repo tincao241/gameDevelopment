@@ -5,12 +5,13 @@ using UnityEngine.SceneManagement;
 public class End : MonoBehaviour
 {
     [SerializeField] private string endScene;
-    [SerializeField] private AudioSource success;
+    
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.tag == "Player")
         {
-            SceneManager.LoadScene(endScene); 
+            
+            SceneManager.LoadScene(endScene);
         }
         
     }
