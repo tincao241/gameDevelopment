@@ -1,0 +1,7 @@
+#include "il2cpp-config.h"
+#include "E:\HỌC TẬP\ĐẠI HỌC\HK1 2021-2022\Phát triển trò chơi\2020.3.19f1\Editor\Data\il2cpp\libil2cpp\mono\MonoPosixHelper.cpp"
+#include "E:\HỌC TẬP\ĐẠI HỌC\HK1 2021-2022\Phát triển trò chơi\2020.3.19f1\Editor\Data\il2cpp\libil2cpp\mono\ThreadPool\ThreadPoolMonitorThread.cpp"
+#include "E:\HỌC TẬP\ĐẠI HỌC\HK1 2021-2022\Phát triển trò chơi\2020.3.19f1\Editor\Data\il2cpp\libil2cpp\mono\ThreadPool\ThreadPoolWorkerThread.cpp"
+#include "E:\HỌC TẬP\ĐẠI HỌC\HK1 2021-2022\Phát triển trò chơi\2020.3.19f1\Editor\Data\il2cpp\libil2cpp\mono\ThreadPool\threadpool-ms-io-poll.cpp"
+#include "E:\HỌC TẬP\ĐẠI HỌC\HK1 2021-2022\Phát triển trò chơi\2020.3.19f1\Editor\Data\il2cpp\libil2cpp\mono\ThreadPool\threadpool-ms-io.cpp"
+#include "E:\HỌC TẬP\ĐẠI HỌC\HK1 2021-2022\Phát triển trò chơi\2020.3.19f1\Editor\Data\il2cpp\libil2cpp\mono\ThreadPool\threadpool-ms.cpp"

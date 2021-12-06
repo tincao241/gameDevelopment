@@ -452,7 +452,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b77f5e97a01267c4eb2ebb1c32305ebb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  restartScene: SampleScene
+  restartScene: Main
 --- !u!1 &580657278
 GameObject:
   m_ObjectHideFlags: 0
